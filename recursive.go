@@ -10,5 +10,5 @@ func Recursive(number int) int {
 }
 
 func Hello(name string) string {
-	return fmt.Sprintf("Hello %s", name)
+	return fmt.Sprintf("Hello %s, how are you?", name)
 }

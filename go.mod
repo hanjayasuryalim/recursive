@@ -1,3 +1,3 @@
-module github.com/hanjayasuryalim/recursive/v2
+module github.com/hanjayasuryalim/recursive
 
 go 1.19

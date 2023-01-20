@@ -11,7 +11,7 @@ func TestRecursive(t *testing.T) {
 }
 
 func TestHello(t *testing.T) {
-	expected := "Hello Jay"
+	expected := "Hello Jay, how are you?"
 	result := Hello("Jay")
 	if expected != result {
 		t.Errorf("expected %s, got %s", expected, result)
